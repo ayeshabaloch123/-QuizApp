@@ -1,4 +1,4 @@
-# FlashCard Quiz App
+# FlashCard Quiz App 💻🧠
 
 A new Flutter project.
 
